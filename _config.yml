@@ -1,7 +1,7 @@
 title: MobileWiki
 email: hexagonwin@archve.ga
 description: >- # this means to ignore newlines until "baseurl:"
-  모바일 기기들을 위한 위키
+  모든것에 대한 위키
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -17,3 +17,7 @@ redcarpet:
 # to override the default setting.
 exclude:
   - vendor
+
+minima:
+  skin: dark
+  date_format: "%b %-d %Y"
