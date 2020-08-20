@@ -1,4 +1,4 @@
-<img src="http://wiki.archve.ga/n1ghtshade/n1ghtshade.png" width="450px" height="300px" title="n1ghtshade" alt="Main Program"></img><br/>
+<img src="http://wiki.archve.ga/images/n1ghtshade/n1ghtshade.png" width="450px" height="300px" title="n1ghtshade" alt="Main Program"></img><br/>
 
 #### n1ghtshade란 무엇인가?
 [@synackuk](https://twitter.com/synackuk) 이 개발하는 iOS 다운그레이드 프로그램이다.
